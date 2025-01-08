@@ -5,7 +5,7 @@ from datetime import datetime
 from timezones import TIMEZONE_DICT
 
 # 定数
-BG_COLOR = "#FFA500"
+BG_COLOR = "#87ceeb"
 TEXT_COLOR = "#333333"
 NOTATION_12_HOUR = "12時制"
 NOTATION_24_HOUR = "24時制"
